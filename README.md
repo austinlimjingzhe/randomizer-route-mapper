@@ -1,73 +1,30 @@
-# React + TypeScript + Vite
+# Randomizer Race Route Mapper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A ReactFlow + Vite + Typescript project to create a canvas tool for taking better notetaking of Randomizer races.
 
-Currently, two official plugins are available:
+# Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pokemon has been thought of as too easy as a game and so many content creators have been finding different ways to make the gameplay harder. Some ways to include Nuzlocke Runs, Speedruns and even Romhacks. One of the types of Romhacks that have caught on for a short while were Randomizer races; where every teleport tile in the game is randomized to another in the game.
 
-## React Compiler
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58rSKVOxvDg?si=iruoZNd4jktQOBMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Many content creators played in a way that showcased their personality - some would YOLO, others would systematically do a depth-first search or breadth-first search approach to the race but clearly, having an efficient notetaking system would be super helpful to have. This inspired me to create a web application that helps for this SUPER, SUPER niche purpose.
 
-## Expanding the ESLint configuration
+Essentially, each map can be viewed as a node and each teleport tile an edge, and so I was inspired by apps such as draw.io where there is an infinite canvas that users can freely add nodes and edges. But such apps aren't that easy to use for this once again SUPER, SUPER niche purpose, so I thought I would try my hand at creating a clone app for this idea.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+I had this idea at the peak of this trend but had not started at all and sadly, the trend is pretty much dead, making the way for other trends like Escape Rooms hacks or timeless challenges like Nuzlockes. With the rise in GenAI and vibe coding, I thought I would resolve myself to at least try.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+Try it here: https://randomizer-route-mapper.vercel.app/
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# Tools
+1. ReactFlow - A package that allows you to create interactive flowgraphs using node js.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+# Data
+1. Thank you to the veekun database of locations found at <a href="https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/locations.csv">Veekun's Github</a>
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+# Features:
+1. Select the game you are playing to filter the maps in the nodes dropdown
+2. Rename the node and edges to note down the exact map and teleport tile
+3. Mark a node as Softlocked in grey or as a Gym/E4 in green
+4. Save your flowgraph as an image (png/jpeg)
+5. Import/Export the flowgraph as a json
