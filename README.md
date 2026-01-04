@@ -6,7 +6,9 @@ A ReactFlow + Vite + Typescript project to create a canvas tool for taking bette
 
 Pokemon has been thought of as too easy as a game and so many content creators have been finding different ways to make the gameplay harder. Some ways to include Nuzlocke Runs, Speedruns and even Romhacks. One of the types of Romhacks that have caught on for a short while were Randomizer races; where every teleport tile in the game is randomized to another in the game.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58rSKVOxvDg?si=iruoZNd4jktQOBMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/58rSKVOxvDg/0.jpg)](https://www.youtube.com/watch?v=58rSKVOxvDg)
+
+Video credit: <a href='https://www.youtube.com/@Smallant'>Smallant</a>
 
 Many content creators played in a way that showcased their personality - some would YOLO, others would systematically do a depth-first search or breadth-first search approach to the race but clearly, having an efficient notetaking system would be super helpful to have. This inspired me to create a web application that helps for this SUPER, SUPER niche purpose.
 
@@ -28,3 +30,4 @@ Try it here: https://randomizer-route-mapper.vercel.app/
 3. Mark a node as Softlocked in grey or as a Gym/E4 in green
 4. Save your flowgraph as an image (png/jpeg)
 5. Import/Export the flowgraph as a json
+
