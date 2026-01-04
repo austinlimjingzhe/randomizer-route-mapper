@@ -1,0 +1,608 @@
+[
+  {
+    "id": "gen3:r3:abandoned-ship",
+    "identifier": "abandoned-ship",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:ancient-tomb",
+    "identifier": "ancient-tomb",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:artisan-cave",
+    "identifier": "artisan-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:battle-resort",
+    "identifier": "battle-resort",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:cave-of-origin",
+    "identifier": "cave-of-origin",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:crescent-isle",
+    "identifier": "crescent-isle",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:desert-ruins",
+    "identifier": "desert-ruins",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:desert-underpass",
+    "identifier": "desert-underpass",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:dewford-town",
+    "identifier": "dewford-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:ever-grande-city",
+    "identifier": "ever-grande-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:fabled-cave",
+    "identifier": "fabled-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:fallarbor-town",
+    "identifier": "fallarbor-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:fiery-path",
+    "identifier": "fiery-path",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:fortree-city",
+    "identifier": "fortree-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:gnarled-den",
+    "identifier": "gnarled-den",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:granite-cave",
+    "identifier": "granite-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-altering-cave",
+    "identifier": "hoenn-altering-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-battle-tower",
+    "identifier": "hoenn-battle-tower",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-pokemon-league",
+    "identifier": "hoenn-pokemon-league",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-101",
+    "identifier": "hoenn-route-101",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-102",
+    "identifier": "hoenn-route-102",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-103",
+    "identifier": "hoenn-route-103",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-104",
+    "identifier": "hoenn-route-104",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-105",
+    "identifier": "hoenn-route-105",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-106",
+    "identifier": "hoenn-route-106",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-107",
+    "identifier": "hoenn-route-107",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-108",
+    "identifier": "hoenn-route-108",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-109",
+    "identifier": "hoenn-route-109",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-110",
+    "identifier": "hoenn-route-110",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-111",
+    "identifier": "hoenn-route-111",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-112",
+    "identifier": "hoenn-route-112",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-113",
+    "identifier": "hoenn-route-113",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-114",
+    "identifier": "hoenn-route-114",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-115",
+    "identifier": "hoenn-route-115",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-116",
+    "identifier": "hoenn-route-116",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-117",
+    "identifier": "hoenn-route-117",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-118",
+    "identifier": "hoenn-route-118",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-119",
+    "identifier": "hoenn-route-119",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-120",
+    "identifier": "hoenn-route-120",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-121",
+    "identifier": "hoenn-route-121",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-122",
+    "identifier": "hoenn-route-122",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-123",
+    "identifier": "hoenn-route-123",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-124",
+    "identifier": "hoenn-route-124",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-125",
+    "identifier": "hoenn-route-125",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-126",
+    "identifier": "hoenn-route-126",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-127",
+    "identifier": "hoenn-route-127",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-128",
+    "identifier": "hoenn-route-128",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-129",
+    "identifier": "hoenn-route-129",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-130",
+    "identifier": "hoenn-route-130",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-131",
+    "identifier": "hoenn-route-131",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-132",
+    "identifier": "hoenn-route-132",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-133",
+    "identifier": "hoenn-route-133",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-route-134",
+    "identifier": "hoenn-route-134",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-safari-zone",
+    "identifier": "hoenn-safari-zone",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:hoenn-victory-road",
+    "identifier": "hoenn-victory-road",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:inside-of-truck",
+    "identifier": "inside-of-truck",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:island-cave",
+    "identifier": "island-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:jagged-pass",
+    "identifier": "jagged-pass",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:lavaridge-town",
+    "identifier": "lavaridge-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:lilycove-city",
+    "identifier": "lilycove-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:littleroot-town",
+    "identifier": "littleroot-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:magma-hideout",
+    "identifier": "magma-hideout",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mauville-city",
+    "identifier": "mauville-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:meteor-falls",
+    "identifier": "meteor-falls",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mirage-cave",
+    "identifier": "mirage-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mirage-forest",
+    "identifier": "mirage-forest",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mirage-island",
+    "identifier": "mirage-island",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mirage-mountain",
+    "identifier": "mirage-mountain",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mirage-tower",
+    "identifier": "mirage-tower",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mossdeep-city",
+    "identifier": "mossdeep-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mt-chimney",
+    "identifier": "mt-chimney",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:mt-pyre",
+    "identifier": "mt-pyre",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:nameless-cavern",
+    "identifier": "nameless-cavern",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:new-mauville",
+    "identifier": "new-mauville",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:oldale-town",
+    "identifier": "oldale-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:pacifidlog-town",
+    "identifier": "pacifidlog-town",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:pathless-plain",
+    "identifier": "pathless-plain",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:petalburg-city",
+    "identifier": "petalburg-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:petalburg-woods",
+    "identifier": "petalburg-woods",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:rustboro-city",
+    "identifier": "rustboro-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:rusturf-tunnel",
+    "identifier": "rusturf-tunnel",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:scorched-slab",
+    "identifier": "scorched-slab",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:sea-mauville",
+    "identifier": "sea-mauville",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:seafloor-cavern",
+    "identifier": "seafloor-cavern",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:sealed-chamber",
+    "identifier": "sealed-chamber",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:secret-base",
+    "identifier": "secret-base",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:secret-islet",
+    "identifier": "secret-islet",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:secret-meadow",
+    "identifier": "secret-meadow",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:secret-shore",
+    "identifier": "secret-shore",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:shoal-cave",
+    "identifier": "shoal-cave",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:sky-pillar",
+    "identifier": "sky-pillar",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:slateport-city",
+    "identifier": "slateport-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:soaring-in-the-sky",
+    "identifier": "soaring-in-the-sky",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:sootopolis-city",
+    "identifier": "sootopolis-city",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:southern-island",
+    "identifier": "southern-island",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:ss-tidal",
+    "identifier": "ss-tidal",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:team-aqua-hideout",
+    "identifier": "team-aqua-hideout",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:team-magma-hideout",
+    "identifier": "team-magma-hideout",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:trackless-forest",
+    "identifier": "trackless-forest",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:underwater",
+    "identifier": "underwater",
+    "generation": 3,
+    "regionId": 3
+  },
+  {
+    "id": "gen3:r3:verdanturf-town",
+    "identifier": "verdanturf-town",
+    "generation": 3,
+    "regionId": 3
+  }
+]

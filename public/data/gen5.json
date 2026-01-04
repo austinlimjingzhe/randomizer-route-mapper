@@ -1,0 +1,728 @@
+[
+  {
+    "id": "gen5:r5:abundant-shrine",
+    "identifier": "abundant-shrine",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:abyssal-ruins",
+    "identifier": "abyssal-ruins",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:accumula-gate",
+    "identifier": "accumula-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:accumula-town",
+    "identifier": "accumula-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:anville-town",
+    "identifier": "anville-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:aspertia-city",
+    "identifier": "aspertia-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:aspertia-gate",
+    "identifier": "aspertia-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:battle-subway",
+    "identifier": "battle-subway",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:black-city",
+    "identifier": "black-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:black-gate",
+    "identifier": "black-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:black-tower",
+    "identifier": "black-tower",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:bridge-gate",
+    "identifier": "bridge-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:castelia-city",
+    "identifier": "castelia-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:castelia-gate",
+    "identifier": "castelia-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:castelia-sewers",
+    "identifier": "castelia-sewers",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:cave-of-being",
+    "identifier": "cave-of-being",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:celestial-tower",
+    "identifier": "celestial-tower",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:challengers-cave",
+    "identifier": "challengers-cave",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:chargestone-cave",
+    "identifier": "chargestone-cave",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:clay-tunnel",
+    "identifier": "clay-tunnel",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:cold-storage",
+    "identifier": "cold-storage",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:desert-resort",
+    "identifier": "desert-resort",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:dragonspiral-tower",
+    "identifier": "dragonspiral-tower",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:dreamyard",
+    "identifier": "dreamyard",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:driftveil-city",
+    "identifier": "driftveil-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:driftveil-drawbridge",
+    "identifier": "driftveil-drawbridge",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:entralink",
+    "identifier": "entralink",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:entree-forest",
+    "identifier": "entree-forest",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:floccesy-ranch",
+    "identifier": "floccesy-ranch",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:floccesy-town",
+    "identifier": "floccesy-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:gear-station",
+    "identifier": "gear-station",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:giant-chasm",
+    "identifier": "giant-chasm",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:glacier-room",
+    "identifier": "glacier-room",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:guidance-chamber",
+    "identifier": "guidance-chamber",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:hidden-grotto",
+    "identifier": "hidden-grotto",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:humilau-city",
+    "identifier": "humilau-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:icirrus-city",
+    "identifier": "icirrus-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:iron-room",
+    "identifier": "iron-room",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:join-avenue",
+    "identifier": "join-avenue",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:lacunosa-town",
+    "identifier": "lacunosa-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:lentimas-town",
+    "identifier": "lentimas-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:liberty-garden",
+    "identifier": "liberty-garden",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:lostlorn-forest",
+    "identifier": "lostlorn-forest",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:marine-tube",
+    "identifier": "marine-tube",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:marvelous-bridge",
+    "identifier": "marvelous-bridge",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:medal-secretariat",
+    "identifier": "medal-secretariat",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:mistralton-cave",
+    "identifier": "mistralton-cave",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:mistralton-city",
+    "identifier": "mistralton-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:moor-of-icirrus",
+    "identifier": "moor-of-icirrus",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:musical-theater",
+    "identifier": "musical-theater",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nacrene-city",
+    "identifier": "nacrene-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nacrene-gate",
+    "identifier": "nacrene-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nature-sanctuary",
+    "identifier": "nature-sanctuary",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nimbasa-city",
+    "identifier": "nimbasa-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nimbasa-gate",
+    "identifier": "nimbasa-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:ns-castle",
+    "identifier": "ns-castle",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:nuvema-town",
+    "identifier": "nuvema-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:opelucid-city",
+    "identifier": "opelucid-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:opelucid-gate",
+    "identifier": "opelucid-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:p2-laboratory",
+    "identifier": "p2-laboratory",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:pinwheel-forest",
+    "identifier": "pinwheel-forest",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:plasma-frigate",
+    "identifier": "plasma-frigate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:pledge-grove",
+    "identifier": "pledge-grove",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:poke-transfer-lab",
+    "identifier": "poke-transfer-lab",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:pokestar-studios",
+    "identifier": "pokestar-studios",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:relic-castle",
+    "identifier": "relic-castle",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:relic-passage",
+    "identifier": "relic-passage",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:reversal-mountain",
+    "identifier": "reversal-mountain",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:rocky-mountain-room",
+    "identifier": "rocky-mountain-room",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:route-gate",
+    "identifier": "route-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:royal-unova",
+    "identifier": "royal-unova",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:rumination-field",
+    "identifier": "rumination-field",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:seaside-cave",
+    "identifier": "seaside-cave",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:skyarrow-bridge",
+    "identifier": "skyarrow-bridge",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:strange-house",
+    "identifier": "strange-house",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:striaton-city",
+    "identifier": "striaton-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:trial-chamber",
+    "identifier": "trial-chamber",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:tubeline-bridge",
+    "identifier": "tubeline-bridge",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:twist-mountain",
+    "identifier": "twist-mountain",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:undella-bay",
+    "identifier": "undella-bay",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:undella-gate",
+    "identifier": "undella-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:undella-town",
+    "identifier": "undella-town",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:underground-ruins",
+    "identifier": "underground-ruins",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unity-tower",
+    "identifier": "unity-tower",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-faraway-place",
+    "identifier": "unova-faraway-place",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-mystery-zone",
+    "identifier": "unova-mystery-zone",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-pokemon-league",
+    "identifier": "unova-pokemon-league",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-1",
+    "identifier": "unova-route-1",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-10",
+    "identifier": "unova-route-10",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-11",
+    "identifier": "unova-route-11",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-12",
+    "identifier": "unova-route-12",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-13",
+    "identifier": "unova-route-13",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-14",
+    "identifier": "unova-route-14",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-15",
+    "identifier": "unova-route-15",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-16",
+    "identifier": "unova-route-16",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-17",
+    "identifier": "unova-route-17",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-18",
+    "identifier": "unova-route-18",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-19",
+    "identifier": "unova-route-19",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-2",
+    "identifier": "unova-route-2",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-20",
+    "identifier": "unova-route-20",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-21",
+    "identifier": "unova-route-21",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-22",
+    "identifier": "unova-route-22",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-23",
+    "identifier": "unova-route-23",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-3",
+    "identifier": "unova-route-3",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-4",
+    "identifier": "unova-route-4",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-5",
+    "identifier": "unova-route-5",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-6",
+    "identifier": "unova-route-6",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-7",
+    "identifier": "unova-route-7",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-8",
+    "identifier": "unova-route-8",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-route-9",
+    "identifier": "unova-route-9",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-shopping-mall",
+    "identifier": "unova-shopping-mall",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-victory-road",
+    "identifier": "unova-victory-road",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:unova-victory-road-2",
+    "identifier": "unova-victory-road-2",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:village-bridge",
+    "identifier": "village-bridge",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:virbank-city",
+    "identifier": "virbank-city",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:virbank-complex",
+    "identifier": "virbank-complex",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:virbank-gate",
+    "identifier": "virbank-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:wellspring-cave",
+    "identifier": "wellspring-cave",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:white-forest",
+    "identifier": "white-forest",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:white-gate",
+    "identifier": "white-gate",
+    "generation": 5,
+    "regionId": 5
+  },
+  {
+    "id": "gen5:r5:white-treehollow",
+    "identifier": "white-treehollow",
+    "generation": 5,
+    "regionId": 5
+  }
+]

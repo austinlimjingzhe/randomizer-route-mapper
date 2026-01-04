@@ -1,0 +1,512 @@
+[
+  {
+    "id": "gen1:r1:berry-forest",
+    "identifier": "berry-forest",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:bond-bridge",
+    "identifier": "bond-bridge",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:canyon-entrance",
+    "identifier": "canyon-entrance",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:cape-brink",
+    "identifier": "cape-brink",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:celadon-city",
+    "identifier": "celadon-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:cerulean-cave",
+    "identifier": "cerulean-cave",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:cerulean-city",
+    "identifier": "cerulean-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:cinnabar-island",
+    "identifier": "cinnabar-island",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:digletts-cave",
+    "identifier": "digletts-cave",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:dilford-chamber",
+    "identifier": "dilford-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:five-island",
+    "identifier": "five-island",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:five-isle-meadow",
+    "identifier": "five-isle-meadow",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:four-island",
+    "identifier": "four-island",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:fuchsia-city",
+    "identifier": "fuchsia-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:green-path",
+    "identifier": "green-path",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:icefall-cave",
+    "identifier": "icefall-cave",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:indigo-plateau",
+    "identifier": "indigo-plateau",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-altering-cave",
+    "identifier": "kanto-altering-cave",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-1",
+    "identifier": "kanto-route-1",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-10",
+    "identifier": "kanto-route-10",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-11",
+    "identifier": "kanto-route-11",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-12",
+    "identifier": "kanto-route-12",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-13",
+    "identifier": "kanto-route-13",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-14",
+    "identifier": "kanto-route-14",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-15",
+    "identifier": "kanto-route-15",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-16",
+    "identifier": "kanto-route-16",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-17",
+    "identifier": "kanto-route-17",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-18",
+    "identifier": "kanto-route-18",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-2",
+    "identifier": "kanto-route-2",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-22",
+    "identifier": "kanto-route-22",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-23",
+    "identifier": "kanto-route-23",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-24",
+    "identifier": "kanto-route-24",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-25",
+    "identifier": "kanto-route-25",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-26",
+    "identifier": "kanto-route-26",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-27",
+    "identifier": "kanto-route-27",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-28",
+    "identifier": "kanto-route-28",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-3",
+    "identifier": "kanto-route-3",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-4",
+    "identifier": "kanto-route-4",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-5",
+    "identifier": "kanto-route-5",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-6",
+    "identifier": "kanto-route-6",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-7",
+    "identifier": "kanto-route-7",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-8",
+    "identifier": "kanto-route-8",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-route-9",
+    "identifier": "kanto-route-9",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-safari-zone",
+    "identifier": "kanto-safari-zone",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-sea-route-19",
+    "identifier": "kanto-sea-route-19",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-sea-route-20",
+    "identifier": "kanto-sea-route-20",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-sea-route-21",
+    "identifier": "kanto-sea-route-21",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-victory-road-1",
+    "identifier": "kanto-victory-road-1",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kanto-victory-road-2",
+    "identifier": "kanto-victory-road-2",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:kindle-road",
+    "identifier": "kindle-road",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:lavender-town",
+    "identifier": "lavender-town",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:liptoo-chamber",
+    "identifier": "liptoo-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:lost-cave",
+    "identifier": "lost-cave",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:memorial-pillar",
+    "identifier": "memorial-pillar",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:monean-chamber",
+    "identifier": "monean-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:mt-ember",
+    "identifier": "mt-ember",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:mt-moon",
+    "identifier": "mt-moon",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:one-island",
+    "identifier": "one-island",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:outcast-island",
+    "identifier": "outcast-island",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:pallet-town",
+    "identifier": "pallet-town",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:pattern-bush",
+    "identifier": "pattern-bush",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:pewter-city",
+    "identifier": "pewter-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:pokemon-mansion",
+    "identifier": "pokemon-mansion",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:pokemon-tower",
+    "identifier": "pokemon-tower",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:power-plant",
+    "identifier": "power-plant",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:resort-gorgeous",
+    "identifier": "resort-gorgeous",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:rixy-chamber",
+    "identifier": "rixy-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:rock-tunnel",
+    "identifier": "rock-tunnel",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:ruin-valley",
+    "identifier": "ruin-valley",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:saffron-city",
+    "identifier": "saffron-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:scufib-chamber",
+    "identifier": "scufib-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:seafoam-islands",
+    "identifier": "seafoam-islands",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:sevault-canyon",
+    "identifier": "sevault-canyon",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:ss-anne",
+    "identifier": "ss-anne",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:tanoby-ruins",
+    "identifier": "tanoby-ruins",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:three-isle-port",
+    "identifier": "three-isle-port",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:trainer-tower",
+    "identifier": "trainer-tower",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:treasure-beach",
+    "identifier": "treasure-beach",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:vermilion-city",
+    "identifier": "vermilion-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:viapos-chamber",
+    "identifier": "viapos-chamber",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:viridian-city",
+    "identifier": "viridian-city",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:viridian-forest",
+    "identifier": "viridian-forest",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:water-labyrinth",
+    "identifier": "water-labyrinth",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:water-path",
+    "identifier": "water-path",
+    "generation": 1,
+    "regionId": 1
+  },
+  {
+    "id": "gen1:r1:weepth-chamber",
+    "identifier": "weepth-chamber",
+    "generation": 1,
+    "regionId": 1
+  }
+]

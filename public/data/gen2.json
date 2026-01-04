@@ -1,0 +1,386 @@
+[
+  {
+    "id": "gen2:r2:azalea-town",
+    "identifier": "azalea-town",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:bell-tower",
+    "identifier": "bell-tower",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:bellchime-trail",
+    "identifier": "bellchime-trail",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:blackthorn-city",
+    "identifier": "blackthorn-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:burned-tower",
+    "identifier": "burned-tower",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:cherrygrove-city",
+    "identifier": "cherrygrove-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:cianwood-city",
+    "identifier": "cianwood-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:cliff-cave",
+    "identifier": "cliff-cave",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:cliff-edge-gate",
+    "identifier": "cliff-edge-gate",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:dark-cave",
+    "identifier": "dark-cave",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:dragons-den",
+    "identifier": "dragons-den",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:ecruteak-city",
+    "identifier": "ecruteak-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:embedded-tower",
+    "identifier": "embedded-tower",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:frontier-access",
+    "identifier": "frontier-access",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:goldenrod-city",
+    "identifier": "goldenrod-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:goldenrod-tunnel",
+    "identifier": "goldenrod-tunnel",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:ice-path",
+    "identifier": "ice-path",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:ilex-forest",
+    "identifier": "ilex-forest",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-lighthouse",
+    "identifier": "johto-lighthouse",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-29",
+    "identifier": "johto-route-29",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-30",
+    "identifier": "johto-route-30",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-31",
+    "identifier": "johto-route-31",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-32",
+    "identifier": "johto-route-32",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-33",
+    "identifier": "johto-route-33",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-34",
+    "identifier": "johto-route-34",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-35",
+    "identifier": "johto-route-35",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-36",
+    "identifier": "johto-route-36",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-37",
+    "identifier": "johto-route-37",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-38",
+    "identifier": "johto-route-38",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-39",
+    "identifier": "johto-route-39",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-42",
+    "identifier": "johto-route-42",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-43",
+    "identifier": "johto-route-43",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-44",
+    "identifier": "johto-route-44",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-45",
+    "identifier": "johto-route-45",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-46",
+    "identifier": "johto-route-46",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-47",
+    "identifier": "johto-route-47",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-route-48",
+    "identifier": "johto-route-48",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-sea-route-40",
+    "identifier": "johto-sea-route-40",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:johto-sea-route-41",
+    "identifier": "johto-sea-route-41",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:lake-of-rage",
+    "identifier": "lake-of-rage",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:mahogany-town",
+    "identifier": "mahogany-town",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:mt-mortar",
+    "identifier": "mt-mortar",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:mt-silver",
+    "identifier": "mt-silver",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:mt-silver-cave",
+    "identifier": "mt-silver-cave",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:national-park",
+    "identifier": "national-park",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:new-bark-town",
+    "identifier": "new-bark-town",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:olivine-city",
+    "identifier": "olivine-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:pokeathlon-dome",
+    "identifier": "pokeathlon-dome",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:pokewalker",
+    "identifier": "pokewalker",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:radio-tower",
+    "identifier": "radio-tower",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:ruins-of-alph",
+    "identifier": "ruins-of-alph",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:safari-zone-gate",
+    "identifier": "safari-zone-gate",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:sinjoh-ruins",
+    "identifier": "sinjoh-ruins",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:slowpoke-well",
+    "identifier": "slowpoke-well",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:sprout-tower",
+    "identifier": "sprout-tower",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:ss-aqua",
+    "identifier": "ss-aqua",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:team-rocket-hq",
+    "identifier": "team-rocket-hq",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:tohjo-falls",
+    "identifier": "tohjo-falls",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:union-cave",
+    "identifier": "union-cave",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:unknown-all-bugs",
+    "identifier": "unknown-all-bugs",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:unknown-all-poliwag",
+    "identifier": "unknown-all-poliwag",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:unknown-all-rattata",
+    "identifier": "unknown-all-rattata",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:violet-city",
+    "identifier": "violet-city",
+    "generation": 2,
+    "regionId": 2
+  },
+  {
+    "id": "gen2:r2:whirl-islands",
+    "identifier": "whirl-islands",
+    "generation": 2,
+    "regionId": 2
+  }
+]

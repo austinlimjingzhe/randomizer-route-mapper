@@ -1,0 +1,758 @@
+[
+  {
+    "id": "gen4:r4:acuity-cavern",
+    "identifier": "acuity-cavern",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:acuity-lakefront",
+    "identifier": "acuity-lakefront",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:amity-square",
+    "identifier": "amity-square",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-arcade",
+    "identifier": "battle-arcade",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-castle",
+    "identifier": "battle-castle",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-factory",
+    "identifier": "battle-factory",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-frontier",
+    "identifier": "battle-frontier",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-hall",
+    "identifier": "battle-hall",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battle-park",
+    "identifier": "battle-park",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:battleground",
+    "identifier": "battleground",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:canalave-city",
+    "identifier": "canalave-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:canalave-library",
+    "identifier": "canalave-library",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:celestic-town",
+    "identifier": "celestic-town",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:contest-hall",
+    "identifier": "contest-hall",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:distortion-world",
+    "identifier": "distortion-world",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:eterna-city",
+    "identifier": "eterna-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:eterna-forest",
+    "identifier": "eterna-forest",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:fight-area",
+    "identifier": "fight-area",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:floaroma-meadow",
+    "identifier": "floaroma-meadow",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:floaroma-town",
+    "identifier": "floaroma-town",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:flower-paradise",
+    "identifier": "flower-paradise",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:footstep-house",
+    "identifier": "footstep-house",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:fuego-ironworks",
+    "identifier": "fuego-ironworks",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:fullmoon-island",
+    "identifier": "fullmoon-island",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:galactic-hq",
+    "identifier": "galactic-hq",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:grand-lake",
+    "identifier": "grand-lake",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:great-marsh",
+    "identifier": "great-marsh",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:gts",
+    "identifier": "gts",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:hearthome-city",
+    "identifier": "hearthome-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:iceberg-ruins",
+    "identifier": "iceberg-ruins",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:iron-island",
+    "identifier": "iron-island",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:iron-ruins",
+    "identifier": "iron-ruins",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:jubilife-city",
+    "identifier": "jubilife-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:jubilife-tv",
+    "identifier": "jubilife-tv",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:lake-acuity",
+    "identifier": "lake-acuity",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:lake-valor",
+    "identifier": "lake-valor",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:lake-verity",
+    "identifier": "lake-verity",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:lost-tower",
+    "identifier": "lost-tower",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:maniac-tunnel",
+    "identifier": "maniac-tunnel",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:mining-museum",
+    "identifier": "mining-museum",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:mt-coronet",
+    "identifier": "mt-coronet",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:newmoon-island",
+    "identifier": "newmoon-island",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:old-chateau",
+    "identifier": "old-chateau",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:oreburgh-city",
+    "identifier": "oreburgh-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:oreburgh-gate",
+    "identifier": "oreburgh-gate",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:oreburgh-mine",
+    "identifier": "oreburgh-mine",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:pal-park",
+    "identifier": "pal-park",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:pastoria-city",
+    "identifier": "pastoria-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:poffin-house",
+    "identifier": "poffin-house",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:pokemon-day-care",
+    "identifier": "pokemon-day-care",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:poketch-co",
+    "identifier": "poketch-co",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:ravaged-path",
+    "identifier": "ravaged-path",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:resort-area",
+    "identifier": "resort-area",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:rock-peak-ruins",
+    "identifier": "rock-peak-ruins",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:rotoms-room",
+    "identifier": "rotoms-room",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:ruin-maniac-cave",
+    "identifier": "ruin-maniac-cave",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sandgem-town",
+    "identifier": "sandgem-town",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:seabreak-path",
+    "identifier": "seabreak-path",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sendoff-spring",
+    "identifier": "sendoff-spring",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-battle-tower",
+    "identifier": "sinnoh-battle-tower",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-cafe",
+    "identifier": "sinnoh-cafe",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-cycle-shop",
+    "identifier": "sinnoh-cycle-shop",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-flower-shop",
+    "identifier": "sinnoh-flower-shop",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-foreign-building",
+    "identifier": "sinnoh-foreign-building",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-game-corner",
+    "identifier": "sinnoh-game-corner",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-global-terminal",
+    "identifier": "sinnoh-global-terminal",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-hall-of-origin-1",
+    "identifier": "sinnoh-hall-of-origin-1",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-hall-of-origin-2",
+    "identifier": "sinnoh-hall-of-origin-2",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-pokemon-league",
+    "identifier": "sinnoh-pokemon-league",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-restaurant",
+    "identifier": "sinnoh-restaurant",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-201",
+    "identifier": "sinnoh-route-201",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-202",
+    "identifier": "sinnoh-route-202",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-203",
+    "identifier": "sinnoh-route-203",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-204",
+    "identifier": "sinnoh-route-204",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-205",
+    "identifier": "sinnoh-route-205",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-206",
+    "identifier": "sinnoh-route-206",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-207",
+    "identifier": "sinnoh-route-207",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-208",
+    "identifier": "sinnoh-route-208",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-209",
+    "identifier": "sinnoh-route-209",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-210",
+    "identifier": "sinnoh-route-210",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-211",
+    "identifier": "sinnoh-route-211",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-212",
+    "identifier": "sinnoh-route-212",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-213",
+    "identifier": "sinnoh-route-213",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-214",
+    "identifier": "sinnoh-route-214",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-215",
+    "identifier": "sinnoh-route-215",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-216",
+    "identifier": "sinnoh-route-216",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-217",
+    "identifier": "sinnoh-route-217",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-218",
+    "identifier": "sinnoh-route-218",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-219",
+    "identifier": "sinnoh-route-219",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-221",
+    "identifier": "sinnoh-route-221",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-222",
+    "identifier": "sinnoh-route-222",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-224",
+    "identifier": "sinnoh-route-224",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-225",
+    "identifier": "sinnoh-route-225",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-227",
+    "identifier": "sinnoh-route-227",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-228",
+    "identifier": "sinnoh-route-228",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-route-229",
+    "identifier": "sinnoh-route-229",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-sea-route-220",
+    "identifier": "sinnoh-sea-route-220",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-sea-route-223",
+    "identifier": "sinnoh-sea-route-223",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-sea-route-226",
+    "identifier": "sinnoh-sea-route-226",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-sea-route-230",
+    "identifier": "sinnoh-sea-route-230",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-victory-road",
+    "identifier": "sinnoh-victory-road",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sinnoh-villa",
+    "identifier": "sinnoh-villa",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:snowpoint-city",
+    "identifier": "snowpoint-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:snowpoint-temple",
+    "identifier": "snowpoint-temple",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:solaceon-ruins",
+    "identifier": "solaceon-ruins",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:solaceon-town",
+    "identifier": "solaceon-town",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:spear-pillar",
+    "identifier": "spear-pillar",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:spring-path",
+    "identifier": "spring-path",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:stark-mountain",
+    "identifier": "stark-mountain",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sunyshore-city",
+    "identifier": "sunyshore-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:sunyshore-market",
+    "identifier": "sunyshore-market",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:survival-area",
+    "identifier": "survival-area",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:tg-eterna-bldg",
+    "identifier": "tg-eterna-bldg",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:trainers-school",
+    "identifier": "trainers-school",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:trophy-garden",
+    "identifier": "trophy-garden",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:turnback-cave",
+    "identifier": "turnback-cave",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:twinleaf-town",
+    "identifier": "twinleaf-town",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:valley-windworks",
+    "identifier": "valley-windworks",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:valor-cavern",
+    "identifier": "valor-cavern",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:valor-lakefront",
+    "identifier": "valor-lakefront",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:veilstone-city",
+    "identifier": "veilstone-city",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:veilstone-store",
+    "identifier": "veilstone-store",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:verity-cavern",
+    "identifier": "verity-cavern",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:verity-lakefront",
+    "identifier": "verity-lakefront",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:vista-lighthouse",
+    "identifier": "vista-lighthouse",
+    "generation": 4,
+    "regionId": 4
+  },
+  {
+    "id": "gen4:r4:wayward-cave",
+    "identifier": "wayward-cave",
+    "generation": 4,
+    "regionId": 4
+  }
+]

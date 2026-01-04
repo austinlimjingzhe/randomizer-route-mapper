@@ -1,0 +1,536 @@
+[
+  {
+    "id": "gen7:r7:aether-paradise",
+    "identifier": "aether-paradise",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:akala-meadow",
+    "identifier": "akala-meadow",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:akala-outskirts",
+    "identifier": "akala-outskirts",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-pokemon-league",
+    "identifier": "alola-pokemon-league",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-1",
+    "identifier": "alola-route-1",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-1-hauoli-outskirts",
+    "identifier": "alola-route-1--hauoli-outskirts",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-10",
+    "identifier": "alola-route-10",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-11",
+    "identifier": "alola-route-11",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-12",
+    "identifier": "alola-route-12",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-13",
+    "identifier": "alola-route-13",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-14",
+    "identifier": "alola-route-14",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-15",
+    "identifier": "alola-route-15",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-16",
+    "identifier": "alola-route-16",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-17",
+    "identifier": "alola-route-17",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-2",
+    "identifier": "alola-route-2",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-3",
+    "identifier": "alola-route-3",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-4",
+    "identifier": "alola-route-4",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-5",
+    "identifier": "alola-route-5",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-6",
+    "identifier": "alola-route-6",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-7",
+    "identifier": "alola-route-7",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-8",
+    "identifier": "alola-route-8",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:alola-route-9",
+    "identifier": "alola-route-9",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:altar-of-the-moone",
+    "identifier": "altar-of-the-moone",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:altar-of-the-sunne",
+    "identifier": "altar-of-the-sunne",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ancient-poni-path",
+    "identifier": "ancient-poni-path",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:battle-royal-dome",
+    "identifier": "battle-royal-dome",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:battle-tree",
+    "identifier": "battle-tree",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:berry-fields",
+    "identifier": "berry-fields",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:blush-mountain",
+    "identifier": "blush-mountain",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:brooklet-hill",
+    "identifier": "brooklet-hill",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:brooklet-hill-totems-den",
+    "identifier": "brooklet-hill--totems-den",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:digletts-tunnel",
+    "identifier": "digletts-tunnel",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:exeggutor-island",
+    "identifier": "exeggutor-island",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:haina-desert",
+    "identifier": "haina-desert",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hano-beach",
+    "identifier": "hano-beach",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hano-grand-resort",
+    "identifier": "hano-grand-resort",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hauoli-cemetery",
+    "identifier": "hauoli-cemetery",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hauoli-city-beachfront",
+    "identifier": "hauoli-city--beachfront",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hauoli-city-marina",
+    "identifier": "hauoli-city--marina",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hauoli-city-shopping-district",
+    "identifier": "hauoli-city--shopping-district",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:heahea-city",
+    "identifier": "heahea-city",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:hokulani-observatory",
+    "identifier": "hokulani-observatory",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:iki-town",
+    "identifier": "iki-town",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:kalae-bay",
+    "identifier": "kalae-bay",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:konikoni-city",
+    "identifier": "konikoni-city",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:lake-of-the-moone",
+    "identifier": "lake-of-the-moone",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:lake-of-the-sunne",
+    "identifier": "lake-of-the-sunne",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:lush-jungle",
+    "identifier": "lush-jungle",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:mahalo-trail",
+    "identifier": "mahalo-trail",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:mahalo-trail-plank-bridge",
+    "identifier": "mahalo-trail--plank-bridge",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:malie-city",
+    "identifier": "malie-city",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:malie-city-outer-cape",
+    "identifier": "malie-city--outer-cape",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:malie-garden",
+    "identifier": "malie-garden",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:melemele-meadow",
+    "identifier": "melemele-meadow",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:melemele-sea",
+    "identifier": "melemele-sea",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:memorial-hill",
+    "identifier": "memorial-hill",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:mount-hokulani",
+    "identifier": "mount-hokulani",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:mount-lanakila",
+    "identifier": "mount-lanakila",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:paniola-ranch",
+    "identifier": "paniola-ranch",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:paniola-town",
+    "identifier": "paniola-town",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:po-town",
+    "identifier": "po-town",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-breaker-coast",
+    "identifier": "poni-breaker-coast",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-coast",
+    "identifier": "poni-coast",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-gauntlet",
+    "identifier": "poni-gauntlet",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-grove",
+    "identifier": "poni-grove",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-meadow",
+    "identifier": "poni-meadow",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-plains",
+    "identifier": "poni-plains",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:poni-wilds",
+    "identifier": "poni-wilds",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:resolution-cave",
+    "identifier": "resolution-cave",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:royal-avenue",
+    "identifier": "royal-avenue",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ruins-of-abundance",
+    "identifier": "ruins-of-abundance",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ruins-of-conflict",
+    "identifier": "ruins-of-conflict",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ruins-of-hope",
+    "identifier": "ruins-of-hope",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ruins-of-life",
+    "identifier": "ruins-of-life",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:seafolk-village",
+    "identifier": "seafolk-village",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:seaward-cave",
+    "identifier": "seaward-cave",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:secluded-shore",
+    "identifier": "secluded-shore",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:shady-house",
+    "identifier": "shady-house",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:tapu-village",
+    "identifier": "tapu-village",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ten-carat-hill",
+    "identifier": "ten-carat-hill",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ten-carat-hill-farthest-hollow",
+    "identifier": "ten-carat-hill--farthest-hollow",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:thrifty-megamart-abandoned-site",
+    "identifier": "thrifty-megamart--abandoned-site",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ulaula-meadow",
+    "identifier": "ulaula-meadow",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:ultra-space",
+    "identifier": "ultra-space",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:vast-poni-canyon",
+    "identifier": "vast-poni-canyon",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:verdant-cavern-totems-den",
+    "identifier": "verdant-cavern--totems-den",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:verdant-cavern-trial-site",
+    "identifier": "verdant-cavern--trial-site",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:wela-volcano-park",
+    "identifier": "wela-volcano-park",
+    "generation": 7,
+    "regionId": 7
+  },
+  {
+    "id": "gen7:r7:wela-volcano-park-totems-den",
+    "identifier": "wela-volcano-park--totems-den",
+    "generation": 7,
+    "regionId": 7
+  }
+]

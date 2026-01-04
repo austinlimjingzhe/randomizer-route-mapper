@@ -1,0 +1,626 @@
+[
+  {
+    "id": "gen6:r6:ambrette-aquarium",
+    "identifier": "ambrette-aquarium",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:ambrette-gate",
+    "identifier": "ambrette-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:ambrette-town",
+    "identifier": "ambrette-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:anistar-city",
+    "identifier": "anistar-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:anistar-gate",
+    "identifier": "anistar-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:aquacorde-town",
+    "identifier": "aquacorde-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:avance-trail",
+    "identifier": "avance-trail",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:azure-bay",
+    "identifier": "azure-bay",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:battle-chateau",
+    "identifier": "battle-chateau",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:battle-maison",
+    "identifier": "battle-maison",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:blazing-chamber",
+    "identifier": "blazing-chamber",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:brun-way",
+    "identifier": "brun-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:camphrier-town",
+    "identifier": "camphrier-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:chamber-of-emptiness",
+    "identifier": "chamber-of-emptiness",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:connecting-cave",
+    "identifier": "connecting-cave",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:coumarine-city",
+    "identifier": "coumarine-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:coumarine-gate",
+    "identifier": "coumarine-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:couriway-gate",
+    "identifier": "couriway-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:couriway-town",
+    "identifier": "couriway-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:cyllage-city",
+    "identifier": "cyllage-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:dendemille-gate",
+    "identifier": "dendemille-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:dendemille-town",
+    "identifier": "dendemille-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:derni-re-way",
+    "identifier": "dernière-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:detourner-way",
+    "identifier": "detourner-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:dragonmark-chamber",
+    "identifier": "dragonmark-chamber",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:flood-chamber",
+    "identifier": "flood-chamber",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:fourrage-road",
+    "identifier": "fourrage-road",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:friend-safari",
+    "identifier": "friend-safari",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:frost-cavern",
+    "identifier": "frost-cavern",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:geosenge-town",
+    "identifier": "geosenge-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:glittering-cave",
+    "identifier": "glittering-cave",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:grande-vallee-way",
+    "identifier": "grande-vallee-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:ironworks-chamber",
+    "identifier": "ironworks-chamber",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-pokemon-league",
+    "identifier": "kalos-pokemon-league",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-power-plant",
+    "identifier": "kalos-power-plant",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-1",
+    "identifier": "kalos-route-1",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-10",
+    "identifier": "kalos-route-10",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-11",
+    "identifier": "kalos-route-11",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-12",
+    "identifier": "kalos-route-12",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-13",
+    "identifier": "kalos-route-13",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-14",
+    "identifier": "kalos-route-14",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-15",
+    "identifier": "kalos-route-15",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-16",
+    "identifier": "kalos-route-16",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-17",
+    "identifier": "kalos-route-17",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-18",
+    "identifier": "kalos-route-18",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-19",
+    "identifier": "kalos-route-19",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-2",
+    "identifier": "kalos-route-2",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-20",
+    "identifier": "kalos-route-20",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-21",
+    "identifier": "kalos-route-21",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-22",
+    "identifier": "kalos-route-22",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-3",
+    "identifier": "kalos-route-3",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-4",
+    "identifier": "kalos-route-4",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-5",
+    "identifier": "kalos-route-5",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-6",
+    "identifier": "kalos-route-6",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-7",
+    "identifier": "kalos-route-7",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-8",
+    "identifier": "kalos-route-8",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-route-9",
+    "identifier": "kalos-route-9",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kalos-victory-road",
+    "identifier": "kalos-victory-road",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kiloude-city",
+    "identifier": "kiloude-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:kiloude-station",
+    "identifier": "kiloude-station",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:laverre-city",
+    "identifier": "laverre-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:laverre-gate",
+    "identifier": "laverre-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:laverre-nature-trail",
+    "identifier": "laverre-nature-trail",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lost-hotel",
+    "identifier": "lost-hotel",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lumiose-badlands",
+    "identifier": "lumiose-badlands",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lumiose-city",
+    "identifier": "lumiose-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lumiose-gate",
+    "identifier": "lumiose-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lumiose-station",
+    "identifier": "lumiose-station",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:lysandre-labs",
+    "identifier": "lysandre-labs",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:mamoswine-road",
+    "identifier": "mamoswine-road",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:melancolie-path",
+    "identifier": "melancolie-path",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:menhir-trail",
+    "identifier": "menhir-trail",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:miroir-way",
+    "identifier": "miroir-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:muraille-coast",
+    "identifier": "muraille-coast",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:ouvert-way",
+    "identifier": "ouvert-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:palais-lane",
+    "identifier": "palais-lane",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:parfum-palace",
+    "identifier": "parfum-palace",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:parterre-way",
+    "identifier": "parterre-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:poke-ball-factory",
+    "identifier": "poke-ball-factory",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:pokemon-league-gate",
+    "identifier": "pokemon-league-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:pokemon-village",
+    "identifier": "pokemon-village",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:prism-tower",
+    "identifier": "prism-tower",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:radiant-chamber",
+    "identifier": "radiant-chamber",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:reflection-cave",
+    "identifier": "reflection-cave",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:rivi-re-walk",
+    "identifier": "rivière-walk",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:santalune-city",
+    "identifier": "santalune-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:santalune-forest",
+    "identifier": "santalune-forest",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:sea-spirits-den",
+    "identifier": "sea-spirits-den",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:shabboneau-castle",
+    "identifier": "shabboneau-castle",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:shalour-city",
+    "identifier": "shalour-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:shalour-gate",
+    "identifier": "shalour-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:snowbelle-city",
+    "identifier": "snowbelle-city",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:snowbelle-gate",
+    "identifier": "snowbelle-gate",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:spikes-passage",
+    "identifier": "spikes-passage",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:team-flare-secret-hq",
+    "identifier": "team-flare-secret-hq",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:terminus-cave",
+    "identifier": "terminus-cave",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:tower-of-mastery",
+    "identifier": "tower-of-mastery",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:unknown-dungeon",
+    "identifier": "unknown-dungeon",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:vallee-etroite-way",
+    "identifier": "vallee-etroite-way",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:vaniville-pathway",
+    "identifier": "vaniville-pathway",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:vaniville-town",
+    "identifier": "vaniville-town",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:versant-road",
+    "identifier": "versant-road",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:winding-woods",
+    "identifier": "winding-woods",
+    "generation": 6,
+    "regionId": 6
+  },
+  {
+    "id": "gen6:r6:zubat-roost",
+    "identifier": "zubat-roost",
+    "generation": 6,
+    "regionId": 6
+  }
+]
